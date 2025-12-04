@@ -97,6 +97,7 @@ Power BI dashboards offer insights into:
 - **Daily Top Market Movers**
 
 ![Market Liquidity Report](securities_market_report1.jpg)
+![Market Liquidity Report](securities_market_report2.jpg)
 
 ---
 
